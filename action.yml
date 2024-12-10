@@ -47,7 +47,7 @@ inputs:
   crawler:
     description: "The repository of the crawler (defaults to 'kiliman/tailwindui-crawler')"
     required: false
-    default: "kiliman/tailwindui-crawler"
+    default: "BrandonClapp/tailwindui-crawler"
   crawlerref:
     description: "The ref (branch, tag or SHA) to checkout of the crawler"
     required: false
